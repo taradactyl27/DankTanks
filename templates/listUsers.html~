@@ -1,0 +1,4 @@
+{% extends "home.html" %}
+
+<h1> HELLO {{USER}} </h1>
+
